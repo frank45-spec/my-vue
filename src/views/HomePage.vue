@@ -1,7 +1,7 @@
 <template>
   <section class="home">
     <div class="hero">
-      <h1>Welcome to My Vue App</h1>
+     <h1>Welcome - feature-a version</h1>
       <p>
         Build fast, modern, and scalable web applications using
         <strong>Vue 3</strong> and <strong>Vite</strong>.
