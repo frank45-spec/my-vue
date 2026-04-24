@@ -55,6 +55,12 @@ const routes = [
     name: 'API',
     component: () => import('../views/API.vue')
   },
+{
+  path: '/login',
+  name: 'Login',
+  component: () => import('../views/LoginPage.vue')
+},
+
   {
     path: '/:pathMatch(.*)*',
     name: 'NotFound',
